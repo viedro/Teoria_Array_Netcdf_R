@@ -5,10 +5,6 @@ date: "30/8/2022"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Arrays
 
 Los arrays son agrupamiento de matrices, las cuales como se sabe solo tienen 2 dimensiones. En este caso los arrrays van a agrupar las matrices de tal forma que se superen las 2 dimensiones.
