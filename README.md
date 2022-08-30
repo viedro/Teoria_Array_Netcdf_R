@@ -55,5 +55,5 @@ MB[1,1,1,3]
 
 1. En general los archivos grillados .nc y sobretodo reanálisis constaran de 4 niveles [lon,lat,level,time], por lo que es necesario conocer la base de los arreglos para poder manejar la data correctamente.
 
-2. Al usar data en superficie se podrá considerar solo [lon,lat,level]
+2. Al usar data en superficie se podrá considerar solo [lon,lat,time]
 
